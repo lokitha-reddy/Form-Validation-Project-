@@ -2,6 +2,8 @@
 
 A comprehensive front-end form validation project built with HTML5, CSS3 (Bootstrap 5), and vanilla JavaScript. Features real-time validation, accessibility support, and responsive design.
 
+---
+
 ## 🚀 Features
 
 - **Complete Form Validation**: Full Name, Email, Phone, Password, and Confirm Password
@@ -10,6 +12,8 @@ A comprehensive front-end form validation project built with HTML5, CSS3 (Bootst
 - **Responsive Design**: Works seamlessly across desktop, tablet, and mobile devices
 - **Password Security**: Strong validation rules and visibility toggle
 - **Clean Architecture**: Modular JavaScript with clear separation of concerns
+
+---
 
 ## 📋 Validation Rules
 
@@ -40,6 +44,8 @@ A comprehensive front-end form validation project built with HTML5, CSS3 (Bootst
 - **Required field**
 - Must exactly match the password field
 
+---
+
 ## 🛠️ Project Structure
 
 ```
@@ -50,6 +56,7 @@ form-validation-project/
 ├── README.md                  # Project documentation
 └── .gitignore                 # Git ignore file
 ```
+---
 
 ## 🔧 Setup and Installation
 
@@ -70,8 +77,7 @@ form-validation-project/
    
    # Option 2: Using Python HTTP server
    python -m http.server 8000
-   # Then navigate to http://localhost:8000
-   
+     
    # Option 3: Using Node.js HTTP server
    npx http-server
    ```
@@ -81,6 +87,8 @@ form-validation-project/
    - Edit files in your preferred code editor
    - Refresh browser to see changes
    - Use browser developer tools for debugging
+
+---
 
 ## 🌐 Deployment
 
@@ -93,18 +101,20 @@ form-validation-project/
    git add .
    git commit -m "Initial commit: Form validation project"
    git branch -M main
-   git remote add origin https://github.com/yourusername/form-validation-project.git
+   git remote add origin https://github.com/lokitha-reddy/Form-Validation-Project-
    git push -u origin main
    ```
 
 ### Netlify Deployment
 
 #### Option 1: Drag and Drop
+
 1. Visit [Netlify](https://www.netlify.com/)
 2. Drag your project folder to the deployment area
 3. Your site will be live instantly
 
 #### Option 2: Git Integration
+
 1. Connect your GitHub account to Netlify
 2. Select your repository
 3. Configure build settings:
@@ -113,7 +123,8 @@ form-validation-project/
 4. Click "Deploy site"
 
 #### Option 3: Netlify CLI
-```bash
+
+```
 npm install -g netlify-cli
 netlify login
 netlify init
@@ -124,8 +135,8 @@ netlify deploy --prod
 ### Other Deployment Options
 
 #### Vercel
-```bash
-npm install -g vercel
+
+```npm install -g vercel
 vercel
 ```
 
@@ -133,7 +144,9 @@ vercel
 1. Go to repository Settings
 2. Navigate to Pages section
 3. Select source branch (usually `main`)
-4. Your site will be available at `https://yourusername.github.io/form-validation-project`
+4. Your site will be available at `https://github.com/lokitha-reddy/Form-Validation-Project-`
+
+---
 
 ## 🧪 Testing
 
@@ -159,11 +172,15 @@ vercel
 - ✅ Safari 14+
 - ✅ Edge 90+
 
+---
+
 ## 📱 Responsive Breakpoints
 
 - **Mobile**: < 768px
 - **Tablet**: 768px - 1024px
 - **Desktop**: > 1024px
+
+---
 
 ## 🎨 Customization
 
@@ -185,6 +202,7 @@ function validateFullName(name) {
     // Customize validation logic here
 }
 ```
+---
 
 ## 🚀 Deployment Checklist
 
@@ -207,6 +225,8 @@ function validateFullName(name) {
 - [ ] Deploy and test live site
 - [ ] Set up custom domain (optional)
 
+---
+
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -215,14 +235,14 @@ function validateFullName(name) {
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+---
 
 ## 🔗 Live Demo
 
-- **Live Site**: [Your Netlify URL]
-- **GitHub Repository**: [Your GitHub URL]
+- **Live Site**: (https://jsformvalidationmajorproject.netlify.app/)
+- **GitHub Repository**: (https://github.com/lokitha-reddy/Form-Validation-Project-)
+
+---
 
 ## 📞 Support
 
@@ -232,7 +252,7 @@ If you encounter any issues or have questions:
 2. Verify all files are properly linked
 3. Ensure you're running the latest version
 4. Open an issue on GitHub for bug reports
-
+5. Contact me via email: nlokithareddy226@gmail.com
 ---
 
 **Made with ❤️ using HTML5, CSS3, Bootstrap 5, and Vanilla JavaScript**
