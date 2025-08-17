@@ -248,13 +248,14 @@ function validateFullName(name) {
 
 If you encounter any issues or have questions:
 
-   1. Check the browser console for error messages
-   2. Verify all files are properly linked
-   3. Ensure you're running the latest version
-   4. Open an issue on GitHub for bug reports
-   5. Contact me via email: nlokithareddy226@gmail.com
+1. Check the browser console for error messages
+2. Verify all files are properly linked
+3. Ensure you're running the latest version
+4. Open an issue on GitHub for bug reports
+5. Contact me via email: nlokithareddy226@gmail.com
 ---
 
 **Made with ❤️ using HTML5, CSS3, Bootstrap 5, and Vanilla JavaScript**
+
 
 
