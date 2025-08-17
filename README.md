@@ -134,7 +134,7 @@ netlify deploy --prod
 
 ### Other Deployment Options
 
-#### Vercel
+#### [Vercel](https://www.vercel.com/)
 
 ```npm install -g vercel
 vercel
@@ -256,4 +256,5 @@ If you encounter any issues or have questions:
 ---
 
 **Made with ❤️ using HTML5, CSS3, Bootstrap 5, and Vanilla JavaScript**
+
 
